@@ -1,2 +1,4 @@
-# Default ignored files
-/workspace.xml
+# Project exclude paths
+.gradle
+.idea
+application-oauth.properties
